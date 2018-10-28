@@ -53,6 +53,10 @@ Build directly with (needs git to be installed)
 
 Set the Security Rules in AWS
 
+https://github.com/nickdunand/wildfly-admin/blob/master/AWSSecurityRules.PNG
+
+
+
 
 To prepare a linux machine:
 
